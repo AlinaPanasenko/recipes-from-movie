@@ -72,7 +72,7 @@ body {
     overflow: hidden;
 }
 
-.masthead-image:after {
+/* .masthead-image:after {
     content: "";
     position: absolute;
     top: 0;
@@ -84,7 +84,7 @@ body {
     -moz-transform: skew(15deg);
     transform: skew(15deg);
     z-index: 100;
-}
+} */
 
 .post-link {
     text-decoration: none;
@@ -107,14 +107,15 @@ body {
 }
 
 .btn-signup {
-    background-color: #23BBBB;
+    
+    background-color: #279c17;
     color: #fff;
 }
 
 .btn-signup:hover,
 .btn-signup:active {
     background-color: #fff;
-    color: #23BBBB;
+    color: #279c17;
 }
 
 .link {
