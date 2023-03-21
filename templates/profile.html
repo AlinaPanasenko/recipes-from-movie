@@ -1,0 +1,15 @@
+{% extends "base.html" %}
+
+{% load i18n %}
+{% load account socialaccount %}
+
+{% block head_title %}{% trans "Profile" %}{% endblock %}
+
+{% block content %}
+
+<div class="container">
+    <div class="row">
+        <h1>{{ user.username }}</h1>
+    </div>
+</div>
+{% endblock %}
