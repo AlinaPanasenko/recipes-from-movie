@@ -1,4 +1,4 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+![CI logo](https://res.cloudinary.com/dso5orboe/image/upload/v1680100192/project_board_12.03.2023_ocwxai.png)
 
 Welcome AlinaPanasenko,
 
