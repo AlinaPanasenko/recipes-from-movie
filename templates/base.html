@@ -40,6 +40,8 @@
                     {% if user.is_authenticated %}
                     <li class="nav-item">
                         <a class="nav-link" href="{% url 'profile' %}">Profile</a>
+                    </li>
+                    <li class="nav-item">    
                         <a class="nav-link" href="{% url 'account_logout' %}">Logout</a>
                     </li>
                     {% else %}
@@ -52,7 +54,7 @@
                     {% endif %}
                 </ul>
                 <span class="navbar-text text-muted">
-                    adventures of a software developer
+                    The Adventures of a Movie Fan Chef 
                 </span>
             </div>
         </div>
@@ -66,8 +68,8 @@
 
     <!-- Footer -->
     <footer class="footer mt-auto py-3 dark-bg">
-        <p class="m-0 text-center text-white">Made by Code Instituters</p>
-        <p class="m-0 text-center text-white">Follow us: <i class="fab fa-facebook-square ms-3"></i>
+        <p class="m-0 text-center text-white">Made by Me</p>
+        <p class="m-0 text-center text-white">Follow me: <i class="fab fa-facebook-square ms-3"></i>
             <i class="fab fa-twitter-square ms-3"></i>
             <i class="fab fa-instagram-square ms-3"></i>
             <i class="fab fa-youtube-square ms-3"></i></p>

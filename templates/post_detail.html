@@ -28,10 +28,6 @@
                     {{ post.recipe | safe }}
                 </p>
                 <div class="row">
-
-                    <div class="col-1">
-                        <strong class="text-secondary"><i class="far fa-heart"></i> {{ post.number_of_likes }} </strong>
-                    </div>
                     <div class="col-1">
                         {% with comments.count as total_comments %}
                         <strong class="text-secondary"><i class="far fa-comments"></i>
