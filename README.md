@@ -1,4 +1,8 @@
+# Recipes From The Movies
+Recipes From The Movies is a blog website for movie fans who love to cook and who are inspired by dishes from their favorite films.
 
+## User Stories
+![Kanban Board.](https://res.cloudinary.com/dso5orboe/image/upload/v1680556711/kanban_board_jmmx2k.png)
 
 ## Manual Testing
 
