@@ -4,12 +4,16 @@
 
 <div class="masthead">
     <div class="container">
-        <div class="row g-0">
-            <div class="col-md-6 masthead-text">
+        <div class="row">
+            <div class="col-md-6">
+                {% if object.author == user %}
+                <a class="btn btn-secondary btn-sm" href=" {% url 'post_update' object.id %} ">Update</a>
+                <a class="btn btn-danger btn-sm" href=" {% url 'post_delete' object.id %} ">Delete</a>
+                {% endif %}
                 <h1 class="post-title">{{ post.title }}</h1>
                 <p class="post-subtitle">{{ post.author }} | {{ post.created_on }}</p>
             </div>
-            <div class="d-none d-md-block col-md-6 masthead-image">
+            <div class="d-md-block col-md-6 masthead-image">
                 {% if "placeholder" in post.featured_image.url %}
                 <img src="https://res.cloudinary.com/dso5orboe/image/upload/v1677877465/samples/food/pot-mussels.jpg" width="100%">
                 {% else %}
