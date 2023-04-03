@@ -41,16 +41,16 @@ Recipes From The Movies is a blog website for movie fans who love to cook and wh
 
 
 ## Credits 
-- Code Institute, I Think Therefore I Blog.
+- [Code Institute, I Think Therefore I Blog.]
 (https://learn.codeinstitute.net/courses/course-v1:CodeInstitute+FST101+2021_T1/courseware/b31493372e764469823578613d11036b/fe4299adcd6743328183aab4e7ec5d13/)
-- Corey Schafer, Python Django Tutorial: Full-Featured Web App Part 10 - Create, Update, and Delete Posts.
+- [Corey Schafer, Python Django Tutorial: Full-Featured Web App Part 10 - Create, Update, and Delete Posts.]
 (https://www.youtube.com/watch?v=-s7e_Fy6NRU&list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p&index=16&ab_channel=CoreySchafer)
-- The Net Ninja, Django Tutorial
+- [The Net Ninja, Django Tutorial]
 (https://www.youtube.com/@NetNinja)
 
 ### Content
-- Eat Pray Love recipe
+- [Eat Pray Love recipe]
 (https://www.saveur.com/article/Recipes/Eat-Pray-Love-Cacio-e-Pepe-Pasta-Sauce/)
-- Fried Green Tomatoes
+- [Fried Green Tomatoes]
 (https://whistlestopcafe.com/feature-recipes/fried-green-tomatoes/)
 
